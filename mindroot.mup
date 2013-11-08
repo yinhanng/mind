@@ -1,0 +1,33 @@
+{
+  "title": "mindroot",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "fatfs",
+      "id": 2,
+      "attr": {
+        "attachment": {
+          "contentType": "text/html",
+          "content": "<span style=\"font-family: Arial, sans-serif; font-size: 13px; line-height: 22px; background-color: rgb(242, 237, 225);\">&nbsp;</span><a href=\"http://www.mindmup.com/#m:a1e7c9bb802a4101317dd52e9828f1dae9\" style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 13px; vertical-align: baseline; background-color: rgb(242, 237, 225); color: rgb(0, 68, 204); font-family: Arial, sans-serif; line-height: 22px;\">http://www.mindmup.com/#m:a1e7c9bb802a4101317dd52e9828f1dae9</a>"
+        },
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "11": {
+      "title": "zhuangxiu",
+      "id": 3,
+      "attr": {
+        "attachment": {
+          "contentType": "text/html",
+          "content": "<a href=\"http://www.mindmup.com/#m:a124413c0029a9013103141ae53a4d1b2c\" style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 13px; vertical-align: baseline; background-color: rgb(242, 237, 225); color: rgb(0, 68, 204); font-family: Arial, sans-serif; line-height: 22px;\">http://www.mindmup.com/#m:a124413c0029a9013103141ae53a4d1b2c</a>"
+        },
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    }
+  }
+}
