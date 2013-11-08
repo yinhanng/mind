@@ -28,6 +28,19 @@
           "background": "#E0E0E0"
         }
       }
+    },
+    "-1": {
+      "title": "ukey analize",
+      "id": 4,
+      "attr": {
+        "attachment": {
+          "contentType": "text/html",
+          "content": "<a href=\"http://www.mindmup.com/#m:a1e04624e02a5201317dd52e9828f1dae9\">http://www.mindmup.com/#m:a1e04624e02a5201317dd52e9828f1dae9</a>"
+        },
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     }
   }
 }
